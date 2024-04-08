@@ -1,0 +1,20 @@
+/* 파일명 : style.css */
+@import url('https://fonts.googleapis.com/css?family=Kirang+Haerang:400');
+p#kh{ font-family: 'Kirang Haerang'; }
+
+p{
+    color: green;
+  }
+
+span{
+  color: blue;
+}
+
+.space{
+  color: skyblue;
+}
+
+#aa{
+  color: red;
+}
+
